@@ -245,6 +245,10 @@ a {
 	pointer-events: none;
 }
 
+#breadcrumbs ul li:last-of-type::after {
+  display: none;
+}
+
 #main {
 	background: #fff;
 	max-width: 960px;
