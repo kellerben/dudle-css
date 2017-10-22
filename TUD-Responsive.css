@@ -236,9 +236,9 @@ a {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	display: inline-block;
-	content: "";
+	content: "";
 	color: #999;
-	margin: 0 0 0 .25rem;
+	margin: 0 0 0 .6em;
 	position: absolute;
 	font-size: 1.3rem;
 	vertical-align: middle;
