@@ -248,6 +248,11 @@ input.navigation, input.disabled, input.chosen, input.notchosen, input.delete, i
 	cursor: pointer;
 	min-height: 1.5em;
 }
+input#add_participant_input {
+	width: 100%;
+	border: solid 1px;
+
+}
 input.navigation, input.disabled, input.chosen, input.notchosen, input.toggle {
 	width: 100%;
 }
