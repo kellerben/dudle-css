@@ -557,3 +557,8 @@ div#wizzard_navigation {
 #footertud ul li:last-child {
 	margin-right: 0;
 }
+
+input#add_participant_input {
+	width: 100%;
+	border: solid 1px;
+}
