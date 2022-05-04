@@ -124,7 +124,7 @@ label { cursor: pointer; }
 }
 
 #tabs:before {
-	content:"dudle";
+	content:"DuDPoll";
 	margin: 0 0 0 1em;
 	padding: 0 8em .375em 0;
 	min-width: 15em;
